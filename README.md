@@ -4,7 +4,6 @@ Click on the following links to checkout the colab files for all three levels.
 - [Level 3](https://colab.research.google.com/drive/18jOkJvLUwBki6jyIJ_VxUIvPb5_Ep1NH?usp=sharing)
 
 ---
-
 ## Problem Statement
 
 **Level 1: Data Exploration and Analysis**
